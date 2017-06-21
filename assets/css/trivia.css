@@ -1,4 +1,35 @@
-h1{
+body {
+	background-image: url(https://i.ytimg.com/vi/4DTO4uHRKqQ/maxresdefault.jpg);
 
-	color: red;
 }
+
+h1 {
+	text-align: center;
+	color: yellow;
+	font-size: 50px;
+}
+
+
+#main-container {
+	position:absolute;
+  	margin-right:  ;  
+ 	margin-left: 300px;
+ 	margin-top: ;
+ 	margin-bottom: ;
+ 	height: 500px;
+ 	width: 700px;
+ 	opacity: 0.5;
+	background-color: yellow;
+	border-width: 5px;
+	border-color: #FFFF00;
+
+
+}
+
+#start {
+	top: 50%;
+    left: 50%;
+    margin-right: -50%;
+	font-size: 60px;
+}
+
